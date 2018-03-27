@@ -7,5 +7,6 @@ public class Test01 {
 		System.out.println("ok,github服务器 return001");
 		System.out.println("本地修改");
 		System.out.println("github修改");
+		System.out.println("ecplice修改");
 	}
 }
